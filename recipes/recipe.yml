@@ -30,7 +30,6 @@ modules:
 
   - type: default-flatpaks
     configurations:
-      notify: true
       - scope: user
         repo:
           title: Flathub (user)
