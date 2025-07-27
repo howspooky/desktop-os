@@ -36,5 +36,9 @@ modules:
       - scope: system
         repo:
           title: Flathub (system)
+        install:
+          - org.flameshot.Flameshot
+          - com.discordapp.Discord
+          - com.jetbrains.IntelliJ-IDEA-Ultimate
 
   - type: signing  # Enables image signing and verification support
