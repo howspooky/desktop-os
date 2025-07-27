@@ -5,8 +5,8 @@ name: desktop-os
 description: This is my personal OS image.
 
 # Base image and version
-base-image: ghcr.io/ublue-os/silverblue-main
-image-version: 41  # Use "latest" if you want bleeding edge updates
+base-image: ghcr.io/ublue-os/kinoite-main
+image-version: 42  # Use "latest" if you want bleeding edge updates
 
 # Module configuration
 modules:
