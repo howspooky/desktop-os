@@ -24,6 +24,8 @@ modules:
       - brave.com
     install:
       - brave-browser
+      - rust
+      - cargo
     remove:
       - firefox
       - firefox-langpacks
